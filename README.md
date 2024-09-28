@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **personal Unity projects**
 
-- 🌱 I’m currently going through **a ML and DS cource**
+- 🌱 I’m currently going through **a ML and DS courses**
 
 - 👨‍💻 Some of my projects are available at [https://yozh.itch.io/](https://yozh.itch.io/)
 
