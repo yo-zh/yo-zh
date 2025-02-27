@@ -1,15 +1,18 @@
-<h1 align="center">Hi 👋, I'm Aleksandr</h1>
-<h3 align="center">A self-taught game developer and a neophyte data scientist</h3>
+<h1 align="center">Hi 👋, I'm Yozh</h1>
+<h3 align="center">A self-taught game developer and a neophyte ML-engineer</h3>
 
 - 🔭 I’m currently working on **personal Unity projects**
 
-- 🌱 I’m currently going through **a ML and DS courses**
+- 🌱 I’m currently going through **a Data Science and Machine Learning retraining course**
 
-- 👨‍💻 Some of my projects are available at [https://yozh.itch.io/](https://yozh.itch.io/)
+- 👨‍💻 Some of my game projects are available at [https://yozh.itch.io/](https://yozh.itch.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/428522840753700877" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="428522840753700877" height="30" width="40" /></a>
+<a href="https://discord.gg/428522840753700877" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord_icon" height="30" width="40" /></a>
+</p>
+<p align="left">
+<a href="https://discord.gg/428522840753700877" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:Telegram_2019_Logo.svg" alt="telegram_icon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
